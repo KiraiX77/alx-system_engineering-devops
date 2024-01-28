@@ -1,7 +1,5 @@
 # Web Infrastructure Design
 
-<img title="a title" alt="Alt text" src="imgs/1000_F_162994956_Uj1fwtBsznrQVbB1E4K2Q9ny6aErRkUl.jpg">
-
 ## Overview
 
 This repository contains documentation and design principles for the web infrastructure setup. The purpose of this documentation is to outline the architecture, components, and best practices for building a scalable, secure, and reliable web infrastructure.
